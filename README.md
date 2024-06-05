@@ -17,9 +17,13 @@ Node<T>: Represents a node in the doubly linked list with data, next, and previo
 GenericDoublyLinkedList<T>: Manages the list operations like insertion, deletion, and traversal.
 
 Methods:
+
 Node<T>
+
 Node(T d): Constructor to initialize the node with data d.
+
 void displayNode(): Displays the node's data.
+
 
 GenericDoublyLinkedList<T>:
 
