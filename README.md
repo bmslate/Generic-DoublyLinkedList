@@ -17,7 +17,8 @@ Node<T>
 Node(T d): Constructor to initialize the node with data d.
 void displayNode(): Displays the node's data.
 
-GenericDoublyLinkedList<T>
+GenericDoublyLinkedList<T>:
+
 GenericDoublyLinkedList(): Constructor to initialize an empty list.
 boolean isEmpty(): Checks if the list is empty.
 void insertFirst(T num): Inserts a node at the beginning of the list.
